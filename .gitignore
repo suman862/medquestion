@@ -240,3 +240,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 >>>>>>> caa4f5d57dd16e1247bf83b46845521c171617d3
+
+# Trained model checkpoints
+*.pth
+*.pt
