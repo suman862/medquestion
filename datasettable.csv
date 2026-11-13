@@ -1,0 +1,101 @@
+key_json,answer
+"{""focus"": ""Glaucoma"", ""intent"": ""definition"", ""subject"": ""optic nerve damage""}",Glaucoma is a group of diseases that can damage the eye's optic nerve and result in vision loss and blindness.
+"{""focus"": ""Glaucoma"", ""intent"": ""causes"", ""subject"": ""fluid pressure""}","It is often caused by a buildup of fluid that increases pressure in the eye, damaging the nerve fibers."
+"{""focus"": ""Glaucoma"", ""intent"": ""symptoms"", ""subject"": ""peripheral vision""}","The most common type, open-angle glaucoma, initially has no symptoms and causes no pain; vision seems normal."
+"{""focus"": ""Glaucoma"", ""intent"": ""treatment"", ""subject"": ""medication/surgery""}","While it cannot be cured, it can be controlled with eye drops, laser surgery, or conventional surgery."
+"{""focus"": ""Glaucoma"", ""intent"": ""risk"", ""subject"": ""demographics""}",African-Americans over age 40 and everyone over age 60 are at a higher risk for developing the condition.
+"{""focus"": ""Glaucoma"", ""intent"": ""prevention"", ""subject"": ""early detection""}","There is no known way to prevent glaucoma, but early detection through dilated eye exams can save vision."
+"{""focus"": ""Glaucoma"", ""intent"": ""diagnosis"", ""subject"": ""dilated eye exam""}",Doctors diagnose glaucoma by performing a comprehensive dilated eye exam to look at the optic nerve.
+"{""focus"": ""Glaucoma"", ""intent"": ""research"", ""subject"": ""clinical trials""}",The National Eye Institute is researching gene therapy and new medications to better protect the optic nerve.
+"{""focus"": ""Glaucoma"", ""intent"": ""types"", ""subject"": ""open-angle""}","Open-angle glaucoma is the most common form where fluid leaves the eye too slowly, causing pressure build-up."
+"{""focus"": ""Glaucoma"", ""intent"": ""anatomy"", ""subject"": ""nerve bundle""}",The optic nerve is a bundle of more than 1 million nerve fibers connecting the retina to the brain.
+"{""focus"": ""Glaucoma"", ""intent"": ""symptoms"", ""subject"": ""tunnel vision""}","Without treatment, people with glaucoma will slowly lose their peripheral vision, resulting in tunnel vision."
+"{""focus"": ""Glaucoma"", ""intent"": ""treatment"", ""subject"": ""early stage""}",Immediate treatment for early-stage glaucoma can delay progression and prevent further damage.
+"{""focus"": ""Glaucoma"", ""intent"": ""statistics"", ""subject"": ""blindness""}","Nearly 2.7 million people in the U.S. have glaucoma, making it a leading cause of blindness."
+"{""focus"": ""Glaucoma"", ""intent"": ""risk"", ""subject"": ""family history""}",Family history plays a significant role; those with a parent or sibling with glaucoma are at higher risk.
+"{""focus"": ""Glaucoma"", ""intent"": ""monitoring"", ""subject"": ""exam frequency""}",High-risk individuals should have a comprehensive dilated eye exam at least once every two years.
+"{""focus"": ""Glaucoma"", ""intent"": ""anatomy"", ""subject"": ""retina connection""}",Damage to the optic nerve fibers stops the transmission of visual information from the retina to the brain.
+"{""focus"": ""Glaucoma"", ""intent"": ""types"", ""subject"": ""angle-closure""}","Angle-closure glaucoma is a less common form that can cause a sudden, painful rise in eye pressure."
+"{""focus"": ""Glaucoma"", ""intent"": ""treatment"", ""subject"": ""laser therapy""}",Laser trabeculoplasty helps fluid drain out of the eye to lower intraocular pressure.
+"{""focus"": ""Glaucoma"", ""intent"": ""diagnosis"", ""subject"": ""tonometry""}",Tonometry is a standard test used during an eye exam to measure the internal pressure of the eye.
+"{""focus"": ""Glaucoma"", ""intent"": ""definition"", ""subject"": ""blindness group""}",It refers to a group of eye conditions that lead to irreversible damage to the optic nerve.
+"{""focus"": ""High Blood Pressure"", ""intent"": ""definition"", ""subject"": ""vessel force""}",High blood pressure is a condition where blood flows through arteries at higher than normal pressures.
+"{""focus"": ""High Blood Pressure"", ""intent"": ""symptoms"", ""subject"": ""silent killer""}","It is often called the ""silent killer"" because it typically has no obvious symptoms for years."
+"{""focus"": ""High Blood Pressure"", ""intent"": ""risk"", ""subject"": ""age factors""}","Nearly 1 in 3 American adults have high blood pressure, and risk increases significantly with age."
+"{""focus"": ""High Blood Pressure"", ""intent"": ""prevention"", ""subject"": ""healthy lifestyle""}","Steps to prevent it include reducing salt intake, maintaining a healthy weight, and staying active."
+"{""focus"": ""High Blood Pressure"", ""intent"": ""diagnosis"", ""subject"": ""pressure readings""}",Normal pressure is below 120/80 mmHg; higher readings indicate hypertension or prehypertension.
+"{""focus"": ""High Blood Pressure"", ""intent"": ""treatment"", ""subject"": ""lifestyle and meds""}","Treatment involves a combination of DASH diet, regular exercise, and blood pressure medications."
+"{""focus"": ""High Blood Pressure"", ""intent"": ""causes"", ""subject"": ""body functions""}",Changes in kidney function or blood vessel stiffness can cause pressure to rise over time.
+"{""focus"": ""High Blood Pressure"", ""intent"": ""definition"", ""subject"": ""systolic/diastolic""}",Systolic (top number) is pressure during heartbeats; Diastolic (bottom) is pressure between beats.
+"{""focus"": ""High Blood Pressure"", ""intent"": ""treatment"", ""subject"": ""target goals""}","For most adults, the goal of treatment is to keep blood pressure consistently below 140/90 mmHg."
+"{""focus"": ""High Blood Pressure"", ""intent"": ""nutrition"", ""subject"": ""sodium limit""}","Older adults should limit sodium to 1,500 mg per day, roughly 2/3 of a teaspoon of salt."
+"{""focus"": ""High Blood Pressure"", ""intent"": ""weight"", ""subject"": ""BMI connection""}",Blood pressure rises with weight; losing even 10 pounds can significantly lower pressure levels.
+"{""focus"": ""High Blood Pressure"", ""intent"": ""nutrition"", ""subject"": ""DASH diet""}","The DASH diet emphasizes fruits, vegetables, and low-fat dairy to help stop hypertension."
+"{""focus"": ""High Blood Pressure"", ""intent"": ""risk"", ""subject"": ""ethnicity""}",African Americans tend to develop high blood pressure earlier in life and have more severe cases.
+"{""focus"": ""High Blood Pressure"", ""intent"": ""complications"", ""subject"": ""stroke/heart attack""}","Left untreated, it can lead to damaged arteries, stroke, heart failure, and kidney disease."
+"{""focus"": ""High Blood Pressure"", ""intent"": ""diagnosis"", ""subject"": ""sphygmomanometer""}","A blood pressure cuff, or sphygmomanometer, is the primary tool used for diagnosis."
+"{""focus"": ""High Blood Pressure"", ""intent"": ""causes"", ""subject"": ""genetics""}",A family history of hypertension increases the likelihood that an individual will develop the disease.
+"{""focus"": ""High Blood Pressure"", ""intent"": ""treatment"", ""subject"": ""diuretics""}","Diuretics, or water pills, are a common medicine that helps the kidneys remove salt and water."
+"{""focus"": ""High Blood Pressure"", ""intent"": ""treatment"", ""subject"": ""beta blockers""}","Beta blockers help the heart beat slower and with less force, lowering overall blood pressure."
+"{""focus"": ""High Blood Pressure"", ""intent"": ""prevention"", ""subject"": ""alcohol limit""}",Limiting alcohol consumption is a key lifestyle change to prevent and manage hypertension.
+"{""focus"": ""High Blood Pressure"", ""intent"": ""monitoring"", ""subject"": ""home tracking""}",Many doctors recommend home monitoring to track pressure changes throughout the day.
+"{""focus"": ""Diabetes"", ""intent"": ""definition"", ""subject"": ""blood glucose""}",Diabetes means your blood glucose (blood sugar) is too high because the body cannot process it properly.
+"{""focus"": ""Diabetes"", ""intent"": ""types"", ""subject"": ""Type 1""}","Type 1 is an autoimmune disease where the body attacks cells that make insulin, requiring daily shots."
+"{""focus"": ""Diabetes"", ""intent"": ""types"", ""subject"": ""Type 2""}",Type 2 occurs when the body doesn't make or use insulin well; it is the most common form.
+"{""focus"": ""Diabetes"", ""intent"": ""symptoms"", ""subject"": ""thirst/hunger""}","Symptoms include extreme thirst, frequent urination, unexplained weight loss, and blurry vision."
+"{""focus"": ""Diabetes"", ""intent"": ""treatment"", ""subject"": ""management""}","It cannot be cured but is managed through blood sugar monitoring, diet, and medication."
+"{""focus"": ""Diabetes"", ""intent"": ""risk"", ""subject"": ""obesity/age""}","Risk factors for Type 2 include being over 45, being overweight, and lack of physical activity."
+"{""focus"": ""Diabetes"", ""intent"": ""complications"", ""subject"": ""nerve damage""}",Long-term high blood sugar can damage nerves (neuropathy) and blood vessels throughout the body.
+"{""focus"": ""Diabetes"", ""intent"": ""prevention"", ""subject"": ""prediabetes""}",People with prediabetes can prevent Type 2 by losing weight and increasing physical activity.
+"{""focus"": ""Diabetes"", ""intent"": ""symptoms"", ""subject"": ""silent disease""}",It is often silent; serious complications can occur before a person even knows they have it.
+"{""focus"": ""Diabetes"", ""intent"": ""treatment"", ""subject"": ""insulin""}",People with Type 1 must use insulin shots or an insulin pump to stay alive and healthy.
+"{""focus"": ""Diabetes"", ""intent"": ""diagnosis"", ""subject"": ""A1C test""}",The A1C test measures your average blood sugar levels over the past three months.
+"{""focus"": ""Diabetes"", ""intent"": ""treatment"", ""subject"": ""physical activity""}",Aerobic activities like walking help the body use insulin better and lower blood glucose.
+"{""focus"": ""Diabetes"", ""intent"": ""nutrition"", ""subject"": ""carbohydrate counting""}",Managing the amount of carbohydrates eaten is essential for keeping blood sugar in range.
+"{""focus"": ""Diabetes"", ""intent"": ""complications"", ""subject"": ""heart disease""}",Heart disease and stroke are the leading causes of death for people living with diabetes.
+"{""focus"": ""Diabetes"", ""intent"": ""risk"", ""subject"": ""family history""}",Having a parent or sibling with diabetes increases your risk of developing the disease.
+"{""focus"": ""Diabetes"", ""intent"": ""monitoring"", ""subject"": ""foot care""}",People with diabetes must check their feet daily for sores to prevent serious infections.
+"{""focus"": ""Diabetes"", ""intent"": ""monitoring"", ""subject"": ""glucose levels""}",Regular finger-prick tests or continuous glucose monitors help track daily sugar fluctuations.
+"{""focus"": ""Diabetes"", ""intent"": ""types"", ""subject"": ""gestational""}",Gestational diabetes is high blood sugar that develops during pregnancy and usually goes away after.
+"{""focus"": ""Diabetes"", ""intent"": ""treatment"", ""subject"": ""oral medication""}",Many with Type 2 take pills like metformin to help their bodies use insulin more effectively.
+"{""focus"": ""Diabetes"", ""intent"": ""complications"", ""subject"": ""kidney failure""}","Diabetes is a leading cause of kidney disease, which can lead to the need for dialysis."
+"{""focus"": ""Osteoarthritis"", ""intent"": ""definition"", ""subject"": ""wear and tear""}","Osteoarthritis is the most common form of arthritis, resulting from the wear and tear of joint cartilage."
+"{""focus"": ""Osteoarthritis"", ""intent"": ""causes"", ""subject"": ""age/joint use""}","It is caused by years of mechanical stress on joints, most often affecting hands, knees, and hips."
+"{""focus"": ""Osteoarthritis"", ""intent"": ""symptoms"", ""subject"": ""pain/stiffness""}","Warning signs include joint pain, tenderness, and stiffness after periods of inactivity."
+"{""focus"": ""Osteoarthritis"", ""intent"": ""treatment"", ""subject"": ""pain management""}",Treatment goals are to manage pain and improve function through exercise and heat therapy.
+"{""focus"": ""Osteoarthritis"", ""intent"": ""statistics"", ""subject"": ""prevalence""}",It is estimated that over 33% of people over age 65 are affected by osteoarthritis.
+"{""focus"": ""Osteoarthritis"", ""intent"": ""diagnosis"", ""subject"": ""physical exam""}",Doctors use medical history and physical exams to check for joint swelling and range of motion.
+"{""focus"": ""Osteoarthritis"", ""intent"": ""treatment"", ""subject"": ""surgery""}","When non-drug treatments fail, joint replacement surgery can relieve pain and restore mobility."
+"{""focus"": ""Osteoarthritis"", ""intent"": ""treatment"", ""subject"": ""non-drug relief""}","Warm baths, hot packs, and maintaining a healthy weight can provide temporary relief from pain."
+"{""focus"": ""Osteoarthritis"", ""intent"": ""diagnosis"", ""subject"": ""X-ray/MRI""}",Imaging tests like X-rays can show bone spurs or a decrease in the space between bones in a joint.
+"{""focus"": ""Osteoarthritis"", ""intent"": ""risk"", ""subject"": ""obesity""}",Extra weight puts more stress on weight-bearing joints like knees and increases the risk of damage.
+"{""focus"": ""Osteoarthritis"", ""intent"": ""anatomy"", ""subject"": ""cartilage loss""}","Cartilage is the slippery tissue that covers the ends of bones; in OA, this cartilage breaks down."
+"{""focus"": ""Osteoarthritis"", ""intent"": ""treatment"", ""subject"": ""physical therapy""}",Strengthening the muscles around a joint helps support the joint and reduces pain.
+"{""focus"": ""Osteoarthritis"", ""intent"": ""treatment"", ""subject"": ""topical creams""}",Over-the-counter creams containing capsaicin or menthol can help soothe minor joint pain.
+"{""focus"": ""Osteoarthritis"", ""intent"": ""complications"", ""subject"": ""disability""}","Advanced OA can lead to a total loss of joint function, making daily tasks like walking difficult."
+"{""focus"": ""Osteoarthritis"", ""intent"": ""symptoms"", ""subject"": ""bone spurs""}","As cartilage wears away, the body may grow extra bone (spurs) around the affected joint."
+"{""focus"": ""Osteoarthritis"", ""intent"": ""risk"", ""subject"": ""joint injury""}","Previous injuries, such as from sports or accidents, can lead to osteoarthritis later in life."
+"{""focus"": ""Osteoarthritis"", ""intent"": ""treatment"", ""subject"": ""assistive devices""}","Using canes, walkers, or shoe inserts can take pressure off joints and make movement easier."
+"{""focus"": ""Osteoarthritis"", ""intent"": ""symptoms"", ""subject"": ""grating sensation""}",Some people feel or hear a grating sensation (crepitus) when using the affected joint.
+"{""focus"": ""Osteoarthritis"", ""intent"": ""treatment"", ""subject"": ""acupuncture""}",Some patients find relief through acupuncture or massage to manage chronic joint stiffness.
+"{""focus"": ""Osteoarthritis"", ""intent"": ""definition"", ""subject"": ""degenerative joint""}",It is a degenerative joint disease where the joint structure gradually changes over time.
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""definition"", ""subject"": ""bladder problem""}","A UTI is an infection in any part of the urinary system, but most often occurs in the bladder."
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""causes"", ""subject"": ""bacteria entry""}",Most UTIs are caused by bacteria entering the urethra and traveling into the bladder.
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""symptoms"", ""subject"": ""burning/frequency""}","Symptoms include a strong, persistent urge to urinate and a burning sensation during urination."
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""treatment"", ""subject"": ""antibiotics""}","Because most UTIs are bacterial, they are treated with bacteria-fighting medications called antibiotics."
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""prevention"", ""subject"": ""hygiene""}",Daily habits like wiping from front to back and staying hydrated can help prevent infections.
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""risk"", ""subject"": ""gender/age""}","Women are at higher risk for UTIs, and the risk for both genders increases with age."
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""symptoms"", ""subject"": ""cloudy urine""}","Infections often cause urine to appear cloudy, bloody, or have a strong, foul smell."
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""complications"", ""subject"": ""kidney infection""}","If left untreated, a bladder infection can spread to the kidneys, which is a much more serious condition."
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""diagnosis"", ""subject"": ""urinalysis""}",Doctors diagnose a UTI by testing a urine sample for the presence of bacteria and white blood cells.
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""prevention"", ""subject"": ""hydration""}",Drinking plenty of water helps flush bacteria out of the urinary tract before infection starts.
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""symptoms"", ""subject"": ""pelvic pain""}","In women, UTIs often cause pain in the center of the pelvis and around the area of the pubic bone."
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""risk"", ""subject"": ""catheters""}",People who use catheters to urinate are at a much higher risk for developing recurring UTIs.
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""causes"", ""subject"": ""structural issues""}","Kidney stones or an enlarged prostate can trap urine in the bladder, leading to infections."
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""treatment"", ""subject"": ""symptom relief""}",Heating pads and drinking lots of fluids can help relieve discomfort while antibiotics work.
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""types"", ""subject"": ""cystitis""}","Cystitis is the medical term for an infection of the bladder, the most common type of UTI."
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""risk"", ""subject"": ""menopause""}",Changes in the vaginal flora and estrogen levels after menopause can increase UTI frequency.
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""prevention"", ""subject"": ""post-sex hygiene""}",Urinating shortly after sexual activity can help flush out bacteria that may have entered the urethra.
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""symptoms"", ""subject"": ""confusion in elderly""}","In older adults, a UTI may not cause typical symptoms but can lead to sudden confusion or behavior changes."
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""diagnosis"", ""subject"": ""urine culture""}",A urine culture identifies the specific type of bacteria causing the infection to choose the right antibiotic.
+"{""focus"": ""Urinary Tract Infections"", ""intent"": ""definition"", ""subject"": ""infection types""}","While most UTIs affect the bladder, they can also occur in the ureters or the kidneys."
